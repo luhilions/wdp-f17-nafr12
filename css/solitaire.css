@@ -7,3 +7,9 @@
   top: 25px;
   left: 25px;
 }
+.back {   position: absolute;   top: 40px;   left: 110px;   z-index: 1; } 
+.kingspades {   position: absolute;   top: 40px;   left: 110px;   z-index: 2; } 
+.queenhearts {   position: absolute;   top: 35px;   left: 110px;   z-index: 3; } 
+.jackclubs {   position: absolute;   top: 30px;   left: 110px;   z-index: 4; } 
+.tendiamonds {   position: absolute;   top: 25px;   left: 110px;   z-index: 5; } 
+.gradient {   background-image: url('../img/gradient.jpg');   background-repeat: repeat-x;   background-color: gray; }
